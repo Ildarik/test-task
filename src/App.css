@@ -37,3 +37,14 @@
     transform: translateY(0px);
   }
 }
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+}
